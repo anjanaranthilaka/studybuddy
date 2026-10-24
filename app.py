@@ -70,7 +70,7 @@ with st.sidebar:
 # Main Chat Area
 # ==============================================================================
 st.header("StudyBuddy AI Assistant")
-st.markdown("Your autonomous study tutor. Ask questions, request quizzes, or generate revision plans.")
+st.markdown("Your autonomous study tutor .Ask questions ,request quizzes, or generate revision plans.")
 
 # Render previous messages from session state
 for msg in st.session_state.chat_messages:
