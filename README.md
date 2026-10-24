@@ -743,8 +743,8 @@ Developed as an academic project demonstrating:
 - Tool Calling
 - Database Persistence
 - Secure Software Engineering
+- - Software Testing
 - Human-AI Learning Assistance
-- Software Testing
 ---
 
 ## License
