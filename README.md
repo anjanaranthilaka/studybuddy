@@ -742,10 +742,9 @@ Developed as an academic project demonstrating:
 - ReAct Architecture
 - Tool Calling
 - Database Persistence
-- Software Testing
 - Secure Software Engineering
 - Human-AI Learning Assistance
-
+- Software Testing
 ---
 
 ## License
